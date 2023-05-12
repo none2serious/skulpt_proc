@@ -1,7 +1,7 @@
 # skulpt_proc
 Quick and dirty code to extract values from skulpt screen caps. <br><br>
 ## Installation: <br>
-  Download this repository (e.g. click "<>Code" --> "Download Zip") <br>
+  Download this repository (e.g. click "<>Code" --> "Download Zip", above) <br>
   cd into the skulpt_proc folder <br>
   activate your base conda environment <br>
     &nbsp;&nbsp;&nbsp;&nbsp; `conda activate base` <br>
