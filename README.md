@@ -38,3 +38,10 @@ save them as a csv in 'dest_folder', in the format: <br>
 
 Note that the script only saves values recorded in RS2, but you can <br>
 edit the keepcols list in the script to retain more or fewer items.
+
+## Testing
+The example_images.zip file contains two image sets collected during training <br>
+You can uncompress the file, and point the script at the folder to test your <br>
+installation. <br>
+Note that the script curently matches by date across the four images collected <br>
+per person. This will be updated in the near future. 
