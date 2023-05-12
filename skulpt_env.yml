@@ -1,0 +1,13 @@
+name: skulpt
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas>=1.4
+  - pillow>=9.0
+  - numpy
+  - pip
+  - pip:
+    - pytesseract
+    - tqdm
+    - glob2
